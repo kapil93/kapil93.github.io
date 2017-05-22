@@ -4,7 +4,7 @@
 title: Kapilesh Iyer
 description: "Coding Enthusiast with experience in Android Development having strong Data Structures and Algorithms"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: ““ #important: start with /
+baseurl: "/kapil93.github.io" #important: start with /
 url: "https://kapil93.github.io"
 
 # Build settings
