@@ -35,24 +35,24 @@ collections:
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: linkedin
-    url:
-  - title: facebook
-    url:
-  - title: twitter
-    url:
-  - title: instagram
-    url:
+    url: https://in.linkedin.com/in/kapileshiyer
   - title: github
-    url: https://www.github.com/kapil93
+    url: https://github.com/kapil93
+  #- title: facebook
+    #url:
+  #- title: twitter
+    #url:
+  #- title: instagram
+    #url:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
-address:
-  - lines:
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+#address:
+  #- lines:
+    #- Some Ave, 987,
+    #- 23890, New York,
+    #- United States.
+email: kapilmail@ymail.com
+tel: +91-8800483829
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
