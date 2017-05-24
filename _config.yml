@@ -34,7 +34,7 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
+  - title: linkedin
     url:
   - title: facebook
     url:
@@ -42,8 +42,8 @@ social:
     url:
   - title: instagram
     url:
-  - title: tumblr
-    url:
+  - title: github
+    url: https://www.github.com/kapil93
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
