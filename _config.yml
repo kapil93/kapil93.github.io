@@ -22,13 +22,13 @@ colors:  #in hex code if not noted else
   footer_content: "#bfc9d3"
 
 # Making projects separate from posts
-collections:
-  projects:
-    output: true
-    permalink: /projects/:title/
-  questions:
-    output: true
-    permalink: /questions/:title/
+# collections:
+#   projects:
+#     output: true
+#     permalink: /projects/:title/
+#   questions:
+#     output: true
+#     permalink: /questions/:title/
 
 ### CONTACT SETTINGS ###
 
@@ -46,7 +46,7 @@ social:
     #url:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
-#address:
+address:
   - lines:
     - Bangalore, KA
     - India.
@@ -54,7 +54,7 @@ email: kapilmail@ymail.com
 tel: +91-8800483829
 
 
-### GENERAL DATA FOR VARIOUS LOCATIONS ###
+# ### GENERAL DATA FOR VARIOUS LOCATIONS ###
 
 # Members information. Shown on About page.
 # members:
@@ -95,22 +95,22 @@ tel: +91-8800483829
 #       - title: twitter
 #         url: http://twitter.com/handle
 
-# Clients information. Shown on Home and About pages.
-#clients:
-  #- name: dribbble
-  #  img: client01.png
-  #- name: Code is Poetry
-  #  img: client02.png
-  #- name: Vimeo
-  #  img: client03.png
-  #- name: VimeoPro
-  #  img: client04.png
+# # Clients information. Shown on Home and About pages.
+# clients:
+#   - name: dribbble
+#     img: client01.png
+#   - name: Code is Poetry
+#     img: client02.png
+#   - name: Vimeo
+#     img: client03.png
+#   - name: VimeoPro
+#     img: client04.png
 
-# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+# # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+# about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
 
-# Testimonial content. Shown on Home and About page.
-#testimonial:
-    #message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    #author: Marcel Newman
-    #position: WEB DESIGNER - BLACKTIE.CO
+# # Testimonial content. Shown on Home and About page.
+# testimonial:
+#     message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+#     author: Marcel Newman
+#     position: WEB DESIGNER - BLACKTIE.CO
