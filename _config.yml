@@ -56,7 +56,7 @@ tel: +91-8800483829
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
 
-Members information. Shown on About page.
+#Members information. Shown on About page.
 members:
   - name: Mark Webber
     position: CEO
