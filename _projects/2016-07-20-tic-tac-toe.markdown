@@ -18,4 +18,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 #### Our Proposal
 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-![Animation](/assets/img/project/tumblanim.gif)
+![Animation](/assets/img/project/ttt.gif)
