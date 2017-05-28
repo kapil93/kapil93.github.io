@@ -22,13 +22,13 @@ colors:  #in hex code if not noted else
   footer_content: "#bfc9d3"
 
 # Making projects separate from posts
-collections:
-  projects:
-    output: true
-    permalink: /projects/:title/
-  questions:
-    output: true
-    permalink: /questions/:title/
+# collections:
+#   projects:
+#     output: true
+#     permalink: /projects/:title/
+#   questions:
+#     output: true
+#     permalink: /questions/:title/
 
 ### CONTACT SETTINGS ###
 
