@@ -4,12 +4,12 @@ title:  "TIC TAC TOE"
 date:   2016-07-20 16:54:46
 categories:
 - project
-img: tictactoe_thumb.png
+img: ttt_thumb.png
 thumb: thumb02.jpg
 carousel:
-- tictactoe_01.png
-- tictactoe_02.png
-- tictactoe_03.png
+- ttt_01.png
+- ttt_02.png
+- ttt_03.png
 website: https://github.com/kapil93/TicTacToe
 ---
 ## Tic Tac Toe
