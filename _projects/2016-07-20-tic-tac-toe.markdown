@@ -4,7 +4,7 @@ title:  "TIC TAC TOE"
 date:   2016-07-20 16:54:46
 categories:
 - project
-img: ttt_thumb.png
+img: ttt_thumb.gif
 thumb: thumb02.jpg
 carousel:
 - ttt_01.png
