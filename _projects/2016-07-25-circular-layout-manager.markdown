@@ -4,7 +4,7 @@ title:  "CIRCULAR LAYOUT MANAGER"
 date:   2016-07-25 16:54:46
 categories:
 - project
-img: clm_thumb.png
+img: clm_thumb.gif
 thumb: thumb02.jpg
 carousel:
 - clm_01.png
