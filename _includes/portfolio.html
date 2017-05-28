@@ -2,7 +2,8 @@
     <div class="portfolio-centered">
         {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
         <div class="recentitems portfolio">
-            {% for project in (site.projects|sort='project.page.date')|reverse limit:include.limit %}
+            {% assign sorted_projects = (site.projects | sort: 'date') | reverse %}
+            {% for project in sorted_projects limit:include.limit %}
                 <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
                     <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" alt="">
