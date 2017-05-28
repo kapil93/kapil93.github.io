@@ -8,6 +8,7 @@ img: wc_thumb.png
 thumb: thumb02.jpg
 carousel:
 - wc_01.png
+company: Witworks
 website: https://github.com/kapil93/WordCloud
 ---
 ## Word Cloud
