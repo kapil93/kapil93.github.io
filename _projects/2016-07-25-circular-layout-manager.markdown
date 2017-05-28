@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "CIRCULAR LAYOUT MANAGER"
-date:   2016-07-25 16:54:46
+date:   2016-07-25 11:54:46
 categories:
 - project
 img: clm_thumb.gif

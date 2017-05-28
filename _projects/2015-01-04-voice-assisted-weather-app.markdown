@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "VOICE ASSISTED WEATHER APP"
-date:   2017-01-04 16:54:46
+date:   2017-01-04 11:54:46
 categories:
 - project
 img: vawa_thumb.gif

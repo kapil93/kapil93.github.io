@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "WORD CLOUD"
-date:   2016-08-03 16:54:46
+date:   2016-08-03 11:54:46
 categories:
 - project
 img: wc_thumb.png

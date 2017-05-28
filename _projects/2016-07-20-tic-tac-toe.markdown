@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "TIC TAC TOE"
-date:   2016-07-20 16:54:46
+date:   2016-07-20 11:54:46
 categories:
 - project
 img: ttt_thumb.gif
