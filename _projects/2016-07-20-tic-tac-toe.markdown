@@ -7,9 +7,9 @@ categories:
 img: portfolio_10.jpg
 thumb: thumb02.jpg
 carousel:
-- tictactoe_01.jpg
-- tictactoe_02.jpg
-- tictactoe_03.jpg
+- tictactoe_01.png
+- tictactoe_02.png
+- tictactoe_03.png
 website: https://github.com/kapil93/TicTacToe
 ---
 #### Tic Tac Toe
