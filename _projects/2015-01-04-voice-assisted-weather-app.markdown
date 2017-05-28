@@ -4,7 +4,7 @@ title:  "VOICE ASSISTED WEATHER APP"
 date:   2017-01-04 16:54:46
 categories:
 - project
-img: vawa_thumb.png
+img: vawa_thumb.gif
 thumb: thumb02.jpg
 carousel:
 - vawa_01.png
