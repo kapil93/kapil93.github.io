@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: project_with_collaborators
 title:  "WORD CLOUD"
 date:   2016-07-16 11:54:46
 categories:
