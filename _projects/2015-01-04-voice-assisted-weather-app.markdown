@@ -29,7 +29,7 @@ The voice command may or may not have location information but must essentially 
 + For speech recognition Android's built-in SpeechRecognizer API is used
 + Retrieval of weather intent and location information from the text obtained from speech recognizer is done by wit.ai service
 + Weather information is obtained using openweathermap.org
-+ A custom view implementation is used to provide visual feedback for voice input
++ A custom view implementation is made to provide visual feedback for voice input
 
 Basic unit tests and instrumentation tests are written but not all classes are covered.
 
