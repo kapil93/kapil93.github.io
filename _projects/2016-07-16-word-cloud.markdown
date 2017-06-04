@@ -14,9 +14,7 @@ website: https://github.com/kapil93/WordCloud
 --------------
 
 ### Overview
-A word cloud library for Android.
-
-It is implemented using a single text view and spannable strings.
+A word cloud library for Android implemented using a single text view and spannable strings.
 
 <br>
 
