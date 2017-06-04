@@ -28,11 +28,16 @@ Circular Relative Layout is provided to clip the layout containing recycler view
 <br>
 
 ### Additional Features:
-* Circular Layout Manager
+* **Circular Layout Manager:**
 	* Scaling and Centering
 	* Item Decorations supported
 	* List item margins supported
 
--> Scroll Wheel
-+ Touch area's inner radius adjustment
-+ Touch area color selection
+* **Scroll Wheel:**
+	* Enabling continued scrolling even when finger goes outside touch area
+	* Highlight touch area
+	* Touch area's inner radius adjustment
+	* Touch area color selection
+
+* **Circular Relative Layout:**
+	* Setting primary dimension which enables auto adjustment of one of the dimensions (width or height) of the layout depending on the length of the other
