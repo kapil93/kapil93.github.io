@@ -1,0 +1,43 @@
+---
+layout: project_without_website
+title:  "SNAKE GAME"
+date:   2010-09-10 11:54:46
+categories:
+- project
+img: vawa_thumb.gif
+thumb: thumb02.jpg
+carousel:
+- vawa_01.png
+- vawa_02.png
+---
+## Snake Game
+--------------
+
+### Overview
+A simple weather application which extracts location information from voice commands and displays weather details.
+
+The voice command may or may not have location information but must essentially have a weather intent. In case of absence of location information device location is used.
+
+<br>
+
+![Animation](/assets/img/project/vawa.gif)
+
+<br>
+
+### Project Details
++ This project is built using MVP architecture
++ For speech recognition Android's built-in SpeechRecognizer API is used
++ Retrieval of weather intent and location information from the text obtained from speech recognizer is done by wit.ai service
++ Weather information is obtained using openweathermap.org
++ A custom view implementation is made to provide visual feedback for voice input
+
+Basic unit tests and instrumentation tests are written but not all classes are covered.
+
+<br>
+
+### Libraries Used:
++ Mockito
++ Espresso
++ Retrofit
++ Dagger2
++ RxJava
