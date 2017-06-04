@@ -29,6 +29,8 @@ The voice command may or may not have location information but must essentially 
 + Retrieval of weather intent and location information from the text obtained from speech recognizer is done by wit.ai service
 + Weather information is obtained using openweathermap.org
 
+<br>
+
 ### Libraries Used:
 + Dagger2
 + RxJava
