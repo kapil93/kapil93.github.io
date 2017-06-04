@@ -16,7 +16,6 @@ website: https://github.com/kapil93/Voice-Assisted-Weather-App
 This is a simple weather application which extracts location information from voice commands and displays weather details.
 
 The voice command may or may not have location information but must essentially have a weather intent. In case of absence of location information device location is used.
-
 <br>
 
 ![Animation](/assets/img/project/vawa.gif)
@@ -30,7 +29,6 @@ The voice command may or may not have location information but must essentially 
 + Weather information is obtained using openweathermap.org
 
 <br>
-
 ### Libraries Used:
 + Dagger2
 + RxJava
