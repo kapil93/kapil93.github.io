@@ -17,13 +17,11 @@ This is a simple weather application which extracts location information from vo
 
 The voice command may or may not have location information but must essentially have a weather intent. In case of absence of location information device location is used.
 
-/
-
 
 
 ![Animation](/assets/img/project/vawa.gif)
 
-<br></br>
+
 
 ### Project Details
 + This project is built using MVP architecture
