@@ -12,6 +12,7 @@ carousel:
 website: https://github.com/kapil93/Voice-Assisted-Weather-App
 ---
 ## Voice Assisted Weather App
+------------------------------
 
 ### Overview
 A simple weather application which extracts location information from voice commands and displays weather details.
