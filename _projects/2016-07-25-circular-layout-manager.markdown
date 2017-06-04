@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: project_with_arsenal
 title:  "CIRCULAR LAYOUT MANAGER"
 date:   2016-07-25 11:54:46
 categories:
@@ -9,6 +9,7 @@ thumb: thumb02.jpg
 carousel:
 - clm_01.png
 - clm_02.png
+arsenal: https://android-arsenal.com/details/1/5679
 website: https://github.com/kapil93/Circular-Layout-Manager
 ---
 ## Circular Layout Manager
@@ -46,3 +47,9 @@ Circular layout manager extends RecyclerView.LayoutManager directly. Scrolling, 
 <br><br>
 * **Circular Relative Layout:**
 	* Setting primary dimension which enables auto adjustment of one of the dimensions (width or height) of the layout depending on the length of the other
+
+<br>
+
+#### This project has been featured in:
+* Tell Me How -> [title](http://www.tellmehow.co/android-circular-layout-manager/)
+* Android Arsenal Tumblr -> [title](http://android-arsenal.tumblr.com/post/160192825452/circular-layout-manager)
