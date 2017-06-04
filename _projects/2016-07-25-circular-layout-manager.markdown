@@ -37,14 +37,14 @@ Circular layout manager extends RecyclerView.LayoutManager directly which leaves
 	* Scaling and Centering
 	* Item Decorations supported
 	* List item margins supported
-
-<br>
-
+	
+<br><br>
 * **Scroll Wheel:**
 	* Enabling continued scrolling even when finger goes outside touch area
 	* Highlight touch area
 	* Touch area's inner radius adjustment
 	* Touch area color selection
+
 <br><br>
 * **Circular Relative Layout:**
 	* Setting primary dimension which enables auto adjustment of one of the dimensions (width or height) of the layout depending on the length of the other
