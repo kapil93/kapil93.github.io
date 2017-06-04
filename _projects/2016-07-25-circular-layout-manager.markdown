@@ -51,5 +51,5 @@ Circular layout manager extends RecyclerView.LayoutManager directly. Scrolling, 
 <br>
 
 #### This project has been featured in:
-* Tell Me How -> [title](http://www.tellmehow.co/android-circular-layout-manager/)
-* Android Arsenal Tumblr -> [title](http://android-arsenal.tumblr.com/post/160192825452/circular-layout-manager)
+* [Tell Me How](http://www.tellmehow.co/android-circular-layout-manager/)
+* [Android Arsenal Tumblr](http://android-arsenal.tumblr.com/post/160192825452/circular-layout-manager)
