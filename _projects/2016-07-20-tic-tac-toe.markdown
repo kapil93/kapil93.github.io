@@ -13,6 +13,7 @@ carousel:
 website: https://github.com/kapil93/TicTacToe
 ---
 ## Tic Tac Toe
+---------------
 
 ### Overview
 An unbeatable tic tac toe game.
@@ -31,4 +32,4 @@ For the calculation of next move Min-Max algorithm is used.
 + The tic tac toe board is a single custom view supporting various animations like click and board clearing animations
 + There are three selection screens in which player mode, sign, and first turn can be selected
 
-This was my first Android app :), but of course I keep modifying the code from time to time
+This was my first Android app :), but of course I keep modifying the code from time to time.
