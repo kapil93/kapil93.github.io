@@ -4,11 +4,11 @@ title:  "Path Finding And Path Optimization Algorithms"
 date:   2015-07-20 11:54:46
 categories:
 - project
-img: vawa_thumb.gif
+img: pacman.jpg
 thumb: thumb02.jpg
 carousel:
-- vawa_01.png
-- vawa_02.png
+- pacman1.jpeg
+- pacman2.jpeg
 ---
 ## Path Finding And Path Optimization Algorithms
 -------------------------------------------------

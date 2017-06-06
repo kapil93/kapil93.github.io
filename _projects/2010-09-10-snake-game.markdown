@@ -4,11 +4,14 @@ title:  "Snake Game"
 date:   2010-09-10 11:54:46
 categories:
 - project
-img: vawa_thumb.gif
+img: snake.jpg
 thumb: thumb02.jpg
 carousel:
-- vawa_01.png
-- vawa_02.png
+- snake1.jpeg
+- snake2.jpeg
+- snake3.jpeg
+- snake4.jpeg
+- snake5.jpeg
 ---
 ## Snake Game
 --------------
