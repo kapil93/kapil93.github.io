@@ -31,6 +31,7 @@ Blink is a smartwatch based on Android having a circular screen, which kinda mak
 * Gradients
 * Compose Shaders
 
+
 * Touch Event Propogation through views
 * Touch Interfaces with animated visual feedbacks
 * Memory Efficient Complex Animations
