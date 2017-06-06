@@ -7,8 +7,11 @@ categories:
 img: vawa_thumb.gif
 thumb: thumb02.jpg
 carousel:
-- vawa_01.png
-- vawa_02.png
+- navigation.jpeg
+- timeline.jpeg
+- app_space.jpeg
+- music.jpeg
+- fitness.jpeg
 company: Witworks Consumer Technologies
 ---
 ## Blink UI
