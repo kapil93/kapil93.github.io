@@ -15,7 +15,7 @@ company: Witworks Consumer Technologies
 ------------
 
 ### Overview
-A UI/UX library containing plug and play UI components for Marvin OS, which is mainly based on Android Lollipop and powers the [Blink Smartwatch](blink.watch).
+A UI/UX library containing plug and play UI components for Marvin OS, which is mainly based on Android Lollipop and powers the [Blink Smartwatch](https://blink.watch).
 
 Blink UI is a submodule for almost all apps in the watch and all the components it contains are standardized across the platform.
 
