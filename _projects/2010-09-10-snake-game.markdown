@@ -4,11 +4,11 @@ title:  "Snake Game"
 date:   2010-09-10 11:54:46
 categories:
 - project
-img: snake.jpg
+img: snake.gif
 thumb: thumb02.jpg
 carousel:
-- snake1.jpeg
-- snake2.jpeg
+- snake1.png
+- snake2.png
 - snake3.jpeg
 - snake4.jpeg
 - snake5.jpeg
