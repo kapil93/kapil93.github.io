@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "VOICE ASSISTED WEATHER APP"
+title:  "Voice Assisted Weather App"
 date:   2017-01-04 11:54:46
 categories:
 - project

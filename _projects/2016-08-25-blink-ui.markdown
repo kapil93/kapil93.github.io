@@ -1,6 +1,6 @@
 ---
 layout: project_with_company
-title:  "BLINK UI"
+title:  "Blink UI"
 date:   2016-08-25 11:54:46
 categories:
 - project

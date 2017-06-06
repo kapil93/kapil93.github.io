@@ -1,6 +1,6 @@
 ---
 layout: project_without_website
-title:  "SNAKE GAME"
+title:  "Snake Game"
 date:   2010-09-10 11:54:46
 categories:
 - project

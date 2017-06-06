@@ -1,6 +1,6 @@
 ---
 layout: project_without_website
-title:  "PATH FINDING AND PATH OPTIMIZATION ALGORITHMS"
+title:  "Path Finding And Path Optimization Algorithms"
 date:   2015-07-20 11:54:46
 categories:
 - project

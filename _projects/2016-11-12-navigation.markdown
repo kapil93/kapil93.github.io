@@ -1,6 +1,6 @@
 ---
 layout: project_with_company
-title:  "NAVIGATION"
+title:  "Navigation"
 date:   2016-11-12 11:54:46
 categories:
 - project

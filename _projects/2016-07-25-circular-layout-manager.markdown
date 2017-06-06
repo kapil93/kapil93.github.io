@@ -1,6 +1,6 @@
 ---
 layout: project_with_arsenal
-title:  "CIRCULAR LAYOUT MANAGER"
+title:  "Circular Layout Manager"
 date:   2016-07-25 11:54:46
 categories:
 - project

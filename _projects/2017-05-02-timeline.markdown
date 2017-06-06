@@ -1,6 +1,6 @@
 ---
 layout: project_with_company
-title:  "TIMELINE"
+title:  "Timeline"
 date:   2017-05-02 11:54:46
 categories:
 - project

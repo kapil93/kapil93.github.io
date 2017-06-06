@@ -1,6 +1,6 @@
 ---
 layout: project_with_company
-title:  "MUSIC PLAYER"
+title:  "Music Player"
 date:   2016-09-27 11:54:46
 categories:
 - project

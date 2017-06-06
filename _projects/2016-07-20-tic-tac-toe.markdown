@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "TIC TAC TOE"
+title:  "Tic Tac Toe"
 date:   2016-07-20 11:54:46
 categories:
 - project
