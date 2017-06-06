@@ -7,8 +7,8 @@ categories:
 img: snake.gif
 thumb: thumb02.jpg
 carousel:
-- snake1.png
-- snake2.png
+- snake1.jpeg
+- snake2.jpeg
 - snake3.jpeg
 - snake4.jpeg
 - snake5.jpeg
