@@ -4,11 +4,10 @@ title:  "Navigation"
 date:   2016-11-12 11:54:46
 categories:
 - project
-img: vawa_thumb.gif
+img: navigation.jpg
 thumb: thumb02.jpg
 carousel:
-- vawa_01.png
-- vawa_02.png
+- navigation.jpeg
 company: Witworks Consumer Technologies
 ---
 ## Navigation

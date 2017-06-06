@@ -4,11 +4,10 @@ title:  "Timeline"
 date:   2017-05-02 11:54:46
 categories:
 - project
-img: vawa_thumb.gif
+img: timeline.jpg
 thumb: thumb02.jpg
 carousel:
-- vawa_01.png
-- vawa_02.png
+- timeline.jpeg
 company: Witworks Consumer Technologies
 ---
 ## Timeline

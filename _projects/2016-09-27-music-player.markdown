@@ -4,11 +4,10 @@ title:  "Music Player"
 date:   2016-09-27 11:54:46
 categories:
 - project
-img: vawa_thumb.gif
+img: music.jpg
 thumb: thumb02.jpg
 carousel:
-- vawa_01.png
-- vawa_02.png
+- music.jpeg
 company: Witworks Consumer Technologies
 ---
 ## Music Player

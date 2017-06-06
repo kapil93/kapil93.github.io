@@ -4,7 +4,7 @@ title:  "Blink UI"
 date:   2016-08-25 11:54:46
 categories:
 - project
-img: vawa_thumb.gif
+img: app_space.jpg
 thumb: thumb02.jpg
 carousel:
 - navigation.jpeg
