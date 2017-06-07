@@ -14,30 +14,19 @@ company: Witworks Consumer Technologies
 --------------
 
 ### Overview
-A simple weather application which extracts location information from voice commands and displays weather details.
+A navigation app for [Blink Smartwatch]{https://blink.watch} which provides turn by turn directions.
 
-The voice command may or may not have location information but must essentially have a weather intent. In case of absence of location information device location is used.
-
-<br>
-
-![Animation](/assets/img/project/vawa.gif)
+Travel modes it supports include driving, walking and transit. Voice commands are used for destination input.
 
 <br>
 
-### Project Details
-+ This project is built using MVP architecture
-+ For speech recognition Android's built-in SpeechRecognizer API is used
-+ Retrieval of weather intent and location information from the text obtained from speech recognizer is done by wit.ai service
-+ Weather information is obtained using openweathermap.org
-+ A custom view implementation is made to provide visual feedback for voice input
+### Challenges I faced
+The primary blocker in the course of making this project was the absence of GPS tracker and Google Play Services in the watch.
 
-Basic unit tests and instrumentation tests are written but not all classes are covered.
+Google Directions API was used for getting the directions to destination and utility classes from various libraries were used for calculating distance to next leg, estimated time of arrival, the logic for rerouting and the detection of arrival at destination.
 
-<br>
+Also one of our prime concerns remains the battery efficiency as the watch has even limited resources than a smartphone.
 
-### Libraries Used:
-+ Mockito
-+ Espresso
-+ Retrofit
-+ Dagger2
-+ RxJava
+As the watch does not have Wi-Fi, it gets internet from the phone via Bluetooth Classic. So hitting the directions API was kept to a minimum, just one time in best case scenario.
+
+GPS data from the phone was sent to the watch via BLE which consumes much less battery but has a relatively low bandwidth as compared to Bluetooth Classic.

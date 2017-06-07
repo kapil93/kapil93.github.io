@@ -14,30 +14,13 @@ company: Witworks Consumer Technologies
 ----------------
 
 ### Overview
-A simple weather application which extracts location information from voice commands and displays weather details.
+A fully functional music player app for [Blink Smartwatch]{https://blink.watch}.
 
-The voice command may or may not have location information but must essentially have a weather intent. In case of absence of location information device location is used.
-
-<br>
-
-![Animation](/assets/img/project/vawa.gif)
+This application enables the user to play music which are already present in the watch, and control the music playing on the phone if it is paired through bluetooth.
 
 <br>
 
-### Project Details
-+ This project is built using MVP architecture
-+ For speech recognition Android's built-in SpeechRecognizer API is used
-+ Retrieval of weather intent and location information from the text obtained from speech recognizer is done by wit.ai service
-+ Weather information is obtained using openweathermap.org
-+ A custom view implementation is made to provide visual feedback for voice input
-
-Basic unit tests and instrumentation tests are written but not all classes are covered.
-
-<br>
-
-### Libraries Used:
-+ Mockito
-+ Espresso
-+ Retrofit
-+ Dagger2
-+ RxJava
+### Things I mainly explored:
+* Media Player
+* Bluetooth Stack
+* AVRCP Profile
