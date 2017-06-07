@@ -27,6 +27,6 @@ Google Directions API was used for getting the directions to destination and uti
 
 Also one of our prime concerns remains the battery efficiency as the watch has even limited resources than a smartphone.
 
-As the watch does not have Wi-Fi, it gets internet from the phone via Bluetooth Classic. So hitting the directions API was kept to a minimum, just one time in best case scenario.
+As the watch does not have Wi-Fi, it gets internet from the phone via Bluetooth Classic which takes a toll on the battery. So hitting the directions API was kept to a minimum, just one time in best case scenario.
 
 GPS data from the phone was sent to the watch via BLE which consumes much less battery but has a relatively low bandwidth as compared to Bluetooth Classic.
