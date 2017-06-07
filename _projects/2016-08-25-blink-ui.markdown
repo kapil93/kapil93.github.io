@@ -22,11 +22,11 @@ A UI/UX library containing plug and play UI components for Marvin OS, which is m
 
 Blink UI is a submodule for almost all apps in the watch and all the components it contains are standardized across the platform.
 
-Blink is a smartwatch based on Android having a circular screen, which kinda makes it necessary for almost every UI element to be a custom component.
+Circular screen of the watch kinda makes it necessary for almost every UI element to be a custom component.
 
 <br>
 
-### Things I learnt:
+### Things I mainly explored:
 * Canvas
 * Bitmaps
 * Drawables
