@@ -14,7 +14,7 @@ company: Witworks Consumer Technologies
 ----------------
 
 ### Overview
-A fully functional music player app for [Blink Smartwatch]{https://blink.watch}.
+A fully functional music player app for [Blink Smartwatch](https://blink.watch).
 
 This application enables the user to play music which are already present in the watch, and control the music playing on the phone if it is paired through bluetooth.
 

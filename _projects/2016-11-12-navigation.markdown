@@ -14,7 +14,7 @@ company: Witworks Consumer Technologies
 --------------
 
 ### Overview
-A navigation app for [Blink Smartwatch]{https://blink.watch} which provides turn by turn directions.
+A navigation app for [Blink Smartwatch](https://blink.watch) which provides turn by turn directions.
 
 Travel modes it supports include driving, walking and transit. Voice commands are used for destination input.
 
