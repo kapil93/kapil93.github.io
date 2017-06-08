@@ -20,7 +20,7 @@ Travel modes it supports include driving, walking and transit. Voice commands ar
 
 <br>
 
-### Challenges I faced
+### Challenges We faced
 The primary blocker in the course of making this project was the absence of GPS tracker and Google Play Services in the watch.
 
 Google Directions API was used for getting the directions to destination and utility classes from various libraries were used for calculating distance to next leg, estimated time of arrival, the logic for rerouting and the detection of arrival at destination.

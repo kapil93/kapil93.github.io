@@ -14,30 +14,17 @@ company: Witworks Consumer Technologies
 ------------
 
 ### Overview
-A simple weather application which extracts location information from voice commands and displays weather details.
+A calendar app for [Blink Smartwatch](https://blink.watch) which primarily fetches events from google calendar. Events and reminders can also be created from the watch itself.
 
-The voice command may or may not have location information but must essentially have a weather intent. In case of absence of location information device location is used.
-
-<br>
-
-![Animation](/assets/img/project/vawa.gif)
+It supports all kinds of recurring events that can be created through Google calendar and notifies the same using Alarm Manager API.
 
 <br>
 
-### Project Details
-+ This project is built using MVP architecture
-+ For speech recognition Android's built-in SpeechRecognizer API is used
-+ Retrieval of weather intent and location information from the text obtained from speech recognizer is done by wit.ai service
-+ Weather information is obtained using openweathermap.org
-+ A custom view implementation is made to provide visual feedback for voice input
+### Challenges We faced
+The primary blocker in the course of making this project was the absence of Google Play Services in the watch. So it was ruled out that we could fetch the events directly and display them.
 
-Basic unit tests and instrumentation tests are written but not all classes are covered.
+We had to parse the string containing recurrence rules ourselves and display the events using correct logic.
 
-<br>
+The complex UI of this app enabled us to learn quite a lot about the canvas API. Arcs were drawn corresponding to the timings of the events. Also due to the numbers positioned in the screen, the arcs were split recursively to arrive at the precise logic for the representation of the timeline events.
 
-### Libraries Used:
-+ Mockito
-+ Espresso
-+ Retrofit
-+ Dagger2
-+ RxJava
+Efficient Database Syncing between the phone and the watch was implemented which transferred only unsynced data to the other device effectively through BLE.
