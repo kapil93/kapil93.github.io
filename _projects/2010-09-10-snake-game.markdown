@@ -17,30 +17,30 @@ carousel:
 --------------
 
 ### Overview
-A simple weather application which extracts location information from voice commands and displays weather details.
+A Snake Game Program in C++ using graphics library.
 
-The voice command may or may not have location information but must essentially have a weather intent. In case of absence of location information device location is used.
-
-<br>
-
-![Animation](/assets/img/project/vawa.gif)
+Please don't judge as it was a originally a project for my 12th grade examinations in school :D, also it was my first computer program.
 
 <br>
 
-### Project Details
-+ This project is built using MVP architecture
-+ For speech recognition Android's built-in SpeechRecognizer API is used
-+ Retrieval of weather intent and location information from the text obtained from speech recognizer is done by wit.ai service
-+ Weather information is obtained using openweathermap.org
-+ A custom view implementation is made to provide visual feedback for voice input
+### Genetic Algorithm Implementation
+I made a regular version in 12th grade with keyboard controls and wrote the scores with timestamp in a file specific to each user and displayed them chronologically with an option to search through them.
 
-Basic unit tests and instrumentation tests are written but not all classes are covered.
+Last year, after watching a youtube video on Genetic Algorithms where a guy trains the Chrome Dinosaur to play by itself, I got pretty inspired and started studying about it. I wanted to apply it to my snake game, so I searched my old computer and found the program.
+
+I wrote the logic for neurons using sigmoid function and various other functions.
+
+The input layer consisted of the manhattan distance to the food's position and positions of every point on the snake's body. The output layer consisted of the potential directions in which the snake can move.
+
+I was generating the set of ten genomes randomly in the beginning and after that kept writing the generated genomes and their respective scores in a file.
 
 <br>
 
-### Libraries Used:
-+ Mockito
-+ Espresso
-+ Retrofit
-+ Dagger2
-+ RxJava
+### Results of Genetic Algorithm Implementation
+At first the snake was mostly eating itself and getting killed, but after some generations it actually learnt not to kill itself and all the succeeding generations did not kill themselves even once.
+
+That said, I saw no progress towards eating the food efficiently.
+
+I learnt that this was maybe a wrong place to apply Genetic Algorithm and graph search would easily solve the problem. But Genetic Algorithm was completely new to me and my passion for algorithm designing compelled me to somehow apply it :).
+
+Well, even though it was quite a naive approach I learnt a lot during the course of this project.
