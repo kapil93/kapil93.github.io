@@ -44,3 +44,5 @@ That said, I saw no progress towards eating the food efficiently.
 I learnt that this was maybe a wrong place to apply Genetic Algorithm and graph search would easily solve the problem. But Genetic Algorithm was completely new to me and my passion for algorithm designing compelled me to somehow apply it :).
 
 Well, even though it was quite a naive approach I learnt a lot during the course of this project.
+
+Also my respect for OOPS concepts and IDEs multiplied many folds after working on my own project which was a single file containing 3000+ lines, contained only functions, had incomprehensible variable names and method names and which used graphics library which can only be run on Turbo C++ IDE without getting into much hassles.
