@@ -7,9 +7,9 @@ categories:
 img: app_space.jpg
 thumb: thumb02.jpg
 carousel:
-- navigation.jpeg
-- timeline.jpeg
 - app_space.jpeg
+- timeline.jpeg
+- navigation.jpeg
 - music.jpeg
 - fitness.jpeg
 company: Witworks Consumer Technologies
