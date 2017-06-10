@@ -35,5 +35,5 @@ Circular screen of the watch kinda makes it necessary for almost every UI elemen
 * Gradients
 * Compose Shaders
 * Memory Efficient Complex Animations
-* Touch Event Propogation through views
+* Touch Event Propagation through views
 * Touch Interfaces with animated visual feedbacks
