@@ -1,5 +1,5 @@
 ---
-layout: project_without_website
+layout: project
 title:  "Snake Game"
 date:   2010-09-10 11:54:46
 categories:
@@ -12,6 +12,7 @@ carousel:
 - snake3.jpeg
 - snake4.jpeg
 - snake5.jpeg
+website: https://github.com/kapil93/Snake-Game
 ---
 ## Snake Game
 --------------
