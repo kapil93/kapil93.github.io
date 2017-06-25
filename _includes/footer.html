@@ -12,7 +12,9 @@
                 <p>
                     {% for network in site.social %}
                         <a href="{{ network.url }}" class="btn-social btn-outline">
-                            <img src="{{ network.image }}" alt="{{network.title}}">
+                          <i class="fa fa-{{ network.title }}" aria-hidden="true"></i>
+                          <span class="sr-only">{{network.title}}</span>
+                          <img src="{{network.image}}">
                         </a>
                     {% endfor %}
                 </p>
