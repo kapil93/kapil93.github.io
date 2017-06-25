@@ -36,10 +36,12 @@ collections:
 social:
   - title: linkedin
     url: https://in.linkedin.com/in/kapileshiyer
+    image: assests/img/about.jpg
   - title: github
     url: https://github.com/kapil93
   - title: playstore
     url: https://play.google.com/store/apps/developer?id=Kapilesh+Iyer
+    image: assests/img/about.jpg
   #- title: facebook
     #url:
   #- title: twitter
