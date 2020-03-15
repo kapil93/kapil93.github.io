@@ -11,7 +11,7 @@
                 <div class="hline-w"></div>
                 <p>
                     {% for network in site.social %}
-                        <a href="{{ network.url }}" class="btn-social btn-outline">
+                        <a target="_blank" rel="noopener noreferrer" href="{{ network.url }}" class="btn-social btn-outline">
                           <img src="{{network.image}}">
                           <i class="fa fa-{{ network.title }}" aria-hidden="true"></i>
                           <span class="sr-only">{{network.title}}</span>

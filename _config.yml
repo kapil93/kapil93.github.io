@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: Kapilesh Iyer
-description: "Coding Enthusiast with experience in Android Development having strong Data Structures and Algorithms"
+title: Kapilesh Tharaknath
+description: "Portfolio website"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "https://kapil93.github.io"
@@ -35,7 +35,7 @@ collections:
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: linkedin
-    url: https://in.linkedin.com/in/kapileshiyer
+    url: https://linkedin.com/in/kapil93
   - title: github
     url: https://github.com/kapil93
   - title: playstore
@@ -51,10 +51,9 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Bangalore, KA
-    - India.
-email: kapilmail@ymail.com
-tel: +91-8800483829
+    - Berlin, Germany
+email: kapilesh.tharaknath@gmail.com
+#tel: +91-8800483829
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
