@@ -4,7 +4,7 @@ title:  "Vorwerk - Cookidoo"
 date:   2018-05-01 11:54:46
 categories:
 - project
-img: thermomix.png
+img: thermomix.jpg
 thumb: thumb02.jpg
 carousel:
 - cookidoo.png
