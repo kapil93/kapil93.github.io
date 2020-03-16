@@ -1,5 +1,5 @@
 ---
-layout: project_with_company
+layout: project_with_company_and_playstore
 title:  "Timex | Blink"
 date:   2017-09-01 11:54:46
 categories:
@@ -9,6 +9,7 @@ thumb: thumb02.jpg
 carousel:
 - timex_blink.png
 company: Witworks Consumer Technologies
+playstore: https://play.google.com/store/apps/details?id=com.timexblink&hl=en
 ---
 ## Timeline
 ------------

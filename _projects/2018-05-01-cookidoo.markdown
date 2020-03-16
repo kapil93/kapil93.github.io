@@ -1,0 +1,24 @@
+---
+layout: project_with_company
+title:  "Vorwerk - Cookidoo"
+date:   2018-05-01 11:54:46
+categories:
+- project
+img: thermomix.png
+thumb: thumb02.jpg
+carousel:
+- cookidoo.png
+company: intive GmbH
+---
+## Timeline
+------------
+
+### Overview
+A companion app for Thermomix, a cooking appliance.
+
+The app allows the user to select from a wide range of recipes and manage them. The user could save recipes, create a custom list of recipes plan ahead of time with calendar view.
+
+<br>
+
+### Challenges We faced
+The most challenging aspect of working on this project was communication and coordination between various remote teams which were highly dispersed and had a total strength of more than 200.
