@@ -9,7 +9,7 @@ thumb: thumb02.jpg
 carousel:
 - timex_blink.png
 company: Witworks Consumer Technologies
-playstore: https://play.google.com/store/apps/details?id=com.timexblink&hl=en
+website: https://play.google.com/store/apps/details?id=com.timexblink&hl=en
 ---
 ## Timeline
 ------------

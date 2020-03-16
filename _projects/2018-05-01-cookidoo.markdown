@@ -1,5 +1,5 @@
 ---
-layout: project_with_company
+layout: project_with_company_and_playstore
 title:  "Vorwerk - Cookidoo"
 date:   2018-05-01 11:54:46
 categories:
@@ -9,6 +9,7 @@ thumb: thumb02.jpg
 carousel:
 - cookidoo.png
 company: intive GmbH
+website: https://play.google.com/store/apps/details?id=com.vorwerk.cookidoo&hl=en
 ---
 ## Timeline
 ------------
