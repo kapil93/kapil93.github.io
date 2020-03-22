@@ -35,6 +35,6 @@ Having said that, conceptually it had a lot of points on its favour. Since, Kotl
 
 Also, the framework supports almost all platforms such as Desktop, Mac, Raspberry Pi and even Backend. Basically, it supports all platforms which is either Java, C or Javascript based!
 
-It would be great for developing small to medium apps especially, if they share similar functionality across many platforms.
+It would be great for developing small to medium apps especially, if they share similar functionalities across many platforms.
 
 Hope that in the near future it becomes stable!
