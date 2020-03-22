@@ -14,8 +14,6 @@ company: intive GmbH
 ### Overview
 This was an internal project to publish information about company news and events.
 
-<br>
-
 This was my first professional project which was written in Kotlin. Moreover, most aspects of the app were new to me in a professional setup such as the libraries used, namely RxJava and Dagger, and the architecture, which was Clean Architecture with MVI.
 
-The introduction to these new technologies and practices in this project got me immensely excited to learn and use them.
+The introduction to these new technologies and practices in this project got me immensely excited to learn and use them efficiently.

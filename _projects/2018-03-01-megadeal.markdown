@@ -14,6 +14,4 @@ company: intive GmbH
 ### Overview
 An app by Telekom for exploring local discounts, coupons and deals.
 
-<br>
-
-Worked with years old legacy java code. Used libraries such as RxJava, Dagger, Epoxy and used MVP architecture
+Worked on old legacy java code. Used libraries such as RxJava, Dagger, Epoxy and used MVP architecture.
