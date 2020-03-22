@@ -7,11 +7,14 @@ categories:
 img: thermomix.jpg
 thumb: thumb02.jpg
 carousel:
-- cookidoo.png
+- cookidoo0.png
+- cookidoo1.png
+- cookidoo2.png
+- cookidoo3.png
 company: intive GmbH
 website: https://play.google.com/store/apps/details?id=com.vorwerk.cookidoo&hl=en
 ---
-## Timeline
+## Cookidoo
 ------------
 
 ### Overview

@@ -7,11 +7,15 @@ categories:
 img: timex_blink.png
 thumb: thumb02.jpg
 carousel:
-- timex_blink.png
+- timex_blink1.png
+- timex_blink2.png
+- timex_blink3.png
+- timex_blink4.png
+- timex_blink5.png
 company: Witworks Consumer Technologies
 website: https://play.google.com/store/apps/details?id=com.timexblink&hl=en
 ---
-## Timeline
+## Blink
 ------------
 
 ### Overview
