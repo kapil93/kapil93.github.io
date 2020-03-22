@@ -1,0 +1,20 @@
+---
+layout: project_with_company
+title:  "Kotlin Multiplatform - POC"
+date:   2018-06-01 11:54:46
+categories:
+- project
+img: kotlin_mp.png
+thumb: thumb02.jpg
+company: intive GmbH
+---
+## Kotlin Multiplatform - POC
+------------
+
+### Overview
+This was a small app made as a proof of concept for, then emerging, Kotlin Multiplatform framework. The idea was to see if considerable amount of code could be shared among Android, iOS and Web platforms.
+
+<br>
+
+### Challenges We faced
+Since the framework was very new at that time we faced so many challenges I don't know where I should start from. Wait till I finish writing this because...
