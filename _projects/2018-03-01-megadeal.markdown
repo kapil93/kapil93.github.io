@@ -4,7 +4,7 @@ title:  "Telekom - Megadeal"
 date:   2018-03-01 11:54:46
 categories:
 - project
-img: telekom_md.jpg
+img: telekom_md.png
 thumb: thumb02.jpg
 company: intive GmbH
 ---

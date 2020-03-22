@@ -18,11 +18,19 @@ website: https://play.google.com/store/apps/details?id=com.vorwerk.cookidoo&hl=e
 ------------
 
 ### Overview
-A companion app for Thermomix, a cooking appliance.
+This app is a companion app for Thermomix, a cooking appliance.
 
-The app allows the user to select from a wide range of recipes and manage them. The user could save recipes, create a custom list of recipes plan ahead of time with calendar view.
+The app allows the user to select from a wide range of recipes and manage them. The user could save recipes, create a custom list of recipes and help plan ahead of time with calendar view.
 
 <br>
 
-### Challenges We faced
-The most challenging aspect of working on this project was communication and coordination between various remote teams which were highly dispersed and had a total strength of more than 200.
+### Things I learnt
+This project was with one of the most crucial customers for the company, Vorverk. I was a part of this project from the very beginning and learnt a lot about development pipelines and high level stage plannings during its course.
+
+The most incredible thing about working on this project was communication and coordination between various remote teams which were highly dispersed and had a total strength of more than 200!
+
+For this app, we decided to go with the Modular Android App Architecture and Clean Architecture with MVP. I haven't had an opportunity to try Clean Architecture with MVVM yet, but its next on the list for me.
+
+We started out with Dagger for dependency injection but eventually moved to Koin because it was considerably more lightweight compared to Dagger and it was more suitable for our limited requirements. RxJava was used to create a fully reactive flow of data.
+
+I learnt a lot about many Android APIs which I was previously unaware of because in my last job I was developing apps for an Android based smartwatch. Most Importantly, I learnt about setting up development pipelines from top to bottom, which frameworks and architectures to use based on different requirements and to manage the expectations of the Product Owners, Project Managers and my other team mates on a huge project.

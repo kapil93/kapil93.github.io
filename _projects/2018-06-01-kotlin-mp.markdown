@@ -12,9 +12,29 @@ company: intive GmbH
 ------------
 
 ### Overview
-This was a small app made as a proof of concept for, then emerging, Kotlin Multiplatform framework. The idea was to see if considerable amount of code could be shared among Android, iOS and Web platforms.
+This was a small app made as a proof of concept for, then emerging, Kotlin Multiplatform framework. The idea was to see if considerable amount of code could be shared amongst Android, iOS and Web platforms.
 
 <br>
 
-### Challenges We faced
-Since the framework was very new at that time we faced so many challenges I don't know where I should start from. Wait till I finish writing this because...
+### A little about the technology
+Kotlin Multiplatform is an experimental language feature that allows us to share common code between various platforms (in our case iOS, Android and Web) which we would otherwise write for each platform separately.
+
+The UI and maybe some other parts of the app which requires a native component needs to be implemented separately and is not meant to be shared with this approach. We believed that most of the code for business logic, presentation logic and some basic components like HTTP client and databases could be shared among the platforms which could save a lot of development time.
+
+### Challenges we faced
+The time and effort required to setup the project for just Android and iOS was quite high as the framework was just in its early stages of development. Even though the setup for both the mobile platforms was documented moderately well, the fact that we were asked to include web itself created a lot of problems as there was no documentation for the combined project setup.
+
+There were also some cryptic error messages during compilation time and version mismatch errors between kotlin native libraries.
+
+In the end, we did complete the proof of concept and the app was working in all the three platforms with a Kotlin based HTTP client and a database. The only platform specific code was the UI of the mobile platforms.
+
+### Our findings
+The technology had many shortcomings and the fact that the framework was very premature led us to conclude that the technology is not yet ready to be used, at least back then.
+
+Having said that, conceptually it had a lot of points on its favour. Since, Kotlin is interoperable with Java, Objective-C and Javascript, the performance of the app would be exaclty like a native app. The fact that the UI had to be platform specific meant that the feel of the app will also be native.
+
+Also, the framework supports almost all platforms such as Desktop, Mac, RasberryPi and even Backend. Basically, it supports all platforms which is either Java, C or Javascript based!
+
+It would be great for developing small to medium apps especially, if they share similar functionality across many platforms.
+
+Hope that in the near future it becomes stable!
