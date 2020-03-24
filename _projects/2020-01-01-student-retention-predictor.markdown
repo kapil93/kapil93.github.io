@@ -1,5 +1,5 @@
 ---
-layout: project_with_colaborator_and_website
+layout: project_with_collaborator_and_website
 title:  "Student Retention Predictor"
 date:   2020-01-01 11:54:46
 categories:

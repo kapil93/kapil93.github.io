@@ -8,7 +8,7 @@ img: intive_cam.png
 thumb: thumb02.jpg
 company: intive GmbH
 ---
-## initve Cam
+## intive Cam
 ------------
 
 ### Overview
