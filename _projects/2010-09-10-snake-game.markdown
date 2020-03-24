@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Snake Game"
+title:  "Snake Game - Genetic Algorithm"
 date:   2010-09-10 11:54:46
 categories:
 - project
@@ -14,7 +14,7 @@ carousel:
 - snake5.jpeg
 website: https://github.com/kapil93/Snake-Game
 ---
-## Snake Game
+## Snake Game - Genetic Algorithm
 --------------
 
 ### Overview

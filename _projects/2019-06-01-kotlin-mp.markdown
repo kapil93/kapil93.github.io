@@ -23,12 +23,16 @@ Kotlin Multiplatform is an experimental language feature that allows us to share
 
 The UI and maybe some other parts of the app which requires a native component needs to be implemented separately and is not meant to be shared with this approach. We believed that most of the code for business logic, presentation logic and some basic components like HTTP client and databases could be shared among the platforms which could save a lot of development time.
 
+<br>
+
 ### Challenges we faced
 The time and effort required to setup the project for just Android and iOS was quite high as the framework was just in its early stages of development. Even though the setup for both the mobile platforms was documented moderately well, the fact that we were asked to include web itself created a lot of problems as there was no documentation for the combined project setup.
 
 There were also some cryptic error messages during compilation time and version mismatch errors between kotlin native libraries.
 
 In the end, we did complete the proof of concept and the app was working in all the three platforms with a Kotlin based HTTP client and a database. The only platform specific code was the UI of the mobile platforms.
+
+<br>
 
 ### Our findings
 The technology had many shortcomings and the fact that the framework was very premature led us to conclude that the technology is not yet ready to be used (at least back then).
