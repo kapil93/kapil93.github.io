@@ -12,7 +12,9 @@ company: intive GmbH
 ------------
 
 ### Overview
-This was a small app made as a proof of concept for, then emerging, Kotlin Multiplatform framework. The idea was to see if considerable amount of common code could be shared amongst Android, iOS and Web platforms so that they are written only once.
+This was a small app made as a proof of concept for, then emerging, Kotlin Multiplatform framework. The idea was to find a multi-platform tool which had a gentle learning curve, a native look, feel \& performance and can be used to share code amongst Android, iOS and possibly Web for our customers requiring simple apps.
+
+Despite having many conceptual advantages it drastically fell short in terms of stability at the time and we went with Flutter instead
 
 <br>
 

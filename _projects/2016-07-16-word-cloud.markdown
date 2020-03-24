@@ -1,5 +1,5 @@
 ---
-layout: project_with_collaborators
+layout: project_with_collaborator_and_github
 title:  "Word Cloud"
 date:   2016-07-16 11:54:46
 categories:
@@ -8,7 +8,7 @@ img: wc_thumb.png
 thumb: thumb02.jpg
 carousel:
 - wc_01.png
-collaborators: https://github.com/thehimanshugoel
+collaborator: https://www.linkedin.com/in/himanshu-goel-32b68391/
 website: https://github.com/kapil93/WordCloud
 ---
 ## Word Cloud

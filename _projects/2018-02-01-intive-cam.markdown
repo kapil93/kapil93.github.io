@@ -1,6 +1,6 @@
 ---
 layout: project_with_company
-title:  "initve Cam"
+title:  "intive Cam"
 date:   2018-02-01 11:54:46
 categories:
 - project

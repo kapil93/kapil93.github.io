@@ -1,5 +1,5 @@
 ---
-layout: project_with_company_and_playstore
+layout: project_with_company_website_and_playstore
 title:  "Vorwerk - Cookidoo"
 date:   2018-05-01 11:54:46
 categories:
@@ -12,7 +12,8 @@ carousel:
 - cookidoo2.png
 - cookidoo3.png
 company: intive GmbH
-website: https://play.google.com/store/apps/details?id=com.vorwerk.cookidoo&hl=en
+website: https://cookidoo.de
+playstore: https://play.google.com/store/apps/details?id=com.vorwerk.cookidoo&hl=en
 ---
 ## Cookidoo
 ------------
@@ -21,6 +22,8 @@ website: https://play.google.com/store/apps/details?id=com.vorwerk.cookidoo&hl=e
 This app is a companion app for Thermomix, a cooking appliance.
 
 The app allows the user to select from a wide range of recipes and manage them. The user could save recipes, create a custom list of recipes and plan ahead of time with calendar view.
+
+![Cookidoo Playstore Screenshot](/assets/img/project/cookidoo_playstore_screenshot.png)
 
 <br>
 
