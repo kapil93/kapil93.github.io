@@ -43,14 +43,17 @@ Read more about the high-level concepts surrounding clean architecture <a target
 
 #### Lifecycle Awareness and Retention of View State
 The simple fact that the view model component paired with live data elements are lifecycle aware changes the game dramatically. If we compare it to the presenter in MVP pattern, the view model saves us a considerable amount of code which would be otherwise written to bind and unbind the presenter with the view and to handle the fetching of view state from the presenter. Since the view model can also handle saving of view state during background process kills, it could be said that the view model provides a wholesome solution to retain view state depending on the lifecycle.
+
 <br>
 
 #### Responsibilities of components
 The fact that the view model doesn't hold a reference to the view makes the code cleaner and clearly separates the responsibilities of each component. But, the same phenomenon causes the view to handle more responsibilities and in turn contain more logic as compared to the MVP pattern. To make it more clear, in MVP pattern it was the responsibility of the presenter to dictate the change in the view based on some logic which could be tested by testing the presenter, but in MVVM it is the responsibility of the view to react to the changes in the data held by the view model and hence we need to test the view as well. As a side note, it is in our best interest to keep the activity or fragment as dumb and logic free as possible because they are not easily testable compared to Kotlin or Java classes. This possible shortcoming could be avoided by moving almost all the logic concerning the view state to the view model and exposing the observable for this view state. Then again, the view model is also an Android component and it would be better for us if we could further move it to another class. So, we finally create a view entity class which holds all the details regarding the view state. This class now could easily be testable. Now, the responsibilities of the view model are reduced to fetching data from the repositories when requested, map it to view entity which the view could parse and remember the view state when changed.
+
 <br>
 
 #### Testability
 Even after great efforts of moving most of the logic to simple Kotlin or java classes, there could be many such scenarios when the testing of the activities, fragments or view models becomes imperative. Even though I didn't dive too deep into writing tests around view models, I found that mocking the view model to test the activity could be somewhat tricky. In my case, I was not able to intercept the call to the private method "clear" belonging to the view model. It is called when the activity is finished, i.e., when we attempt to run multiple tests at a time. At least for my case, the obvious answer was to use test-orchestrator. I'm somewhat sure that there must be ways to write tests for and around view models, but the highlight here is that MVP would be a clear winner if we make a comparison.
+
 <br>
 
 #### Concerns about going Multiplatform
