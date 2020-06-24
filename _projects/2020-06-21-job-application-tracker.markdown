@@ -81,4 +81,4 @@ Although there're no two ways about the fact that Dagger is currently unbeatable
 + Timber
 + JUnit
 + Espresso
-+ Mockk
++ MockK
