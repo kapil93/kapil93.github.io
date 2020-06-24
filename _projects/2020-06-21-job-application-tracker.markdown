@@ -70,6 +70,7 @@ Although there're no two ways about the fact that Dagger is currently unbeatable
 * Didn't create an elegant API for navigation as there were only 3 screens in the apps
 * Didn't handle the restoration of UI state after background process kills through Saved State Handle as it was not needed in this app
 * Didn't implement data binding because I neither see it improving the design nor reducing the volume of code
+* Didn't write extensive tests
 
 <br>
 
